@@ -11,6 +11,10 @@
 <img src="image.png" alt="Escudo viejo (oficial)" />
 <img src="png-transparent-river-plate-logo.png" alt="Letras en negro" />
 <img src="rp.png" alt="Letras en rojo" />
-         
+  <img src="rp.png" alt="Letras en rojo" width="500" height="300"> 
+        <img src="png-transparent-river-plate-logo.png" alt="Letras en negro" width="500" height="300">
+        <img src="image.png" alt="Escudo viejo (oficial)" width="500" height="300">
+        <img src="3d.jfif" alt="Escudo en 3D" width="500" height="300">
+        <img src="rrrrrrrrrpppppppp.png" alt="León" width="500" height="300"> 
     </body>
 </html>
