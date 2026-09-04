@@ -6,7 +6,7 @@
     </head>
     <body>
         <p>En 3D</p>
-         <p>León</p>
+         <p>Escudo viejo (oficial)</p>
          <p>Letras en rojo</p>
          <p>Letras en negro</p>
          <p>León</p>
