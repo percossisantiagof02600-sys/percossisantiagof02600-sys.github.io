@@ -2,9 +2,9 @@
 <html lang="es">
     <head>
         <meta charset="utf-8" />
-        <title>Marcelo Gallardo</title>
+        <title>Escudo de River Plate</title>
     </head>
     <body>
-        <p>El DT más grande de RIver Plate</p>
+        <p>Grandeza</p>
     </body>
 </html>
